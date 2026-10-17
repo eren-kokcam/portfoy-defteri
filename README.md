@@ -4,7 +4,7 @@ Hisse senedi portföyünü **ekleyip, listeleyip, güncelleyip silebileceğin** 
 
 > Web Geliştirme; Yapay Zeka Eğitimi — Proje Ödevi · Eren Kökçam · 2026
 
-**Canlı demo:** _Netlify linkini buraya ekle_
+**Canlı demo:** https://effulgent-khapse-d8e277.netlify.app
 
 ![Liste ekranı](screenshots/liste.png)
 
